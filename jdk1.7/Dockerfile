@@ -1,7 +1,7 @@
 FROM delitescere/jvm-prep
 
 MAINTAINER josh@grahamis.com
-
+# Test build
 # If release changes, the checksum and URL need to be updated
 # See http://www.azulsystems.com/products/zulu/downloads#Linux
 #
